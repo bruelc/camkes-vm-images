@@ -5,6 +5,8 @@
 -->
 
 # STM32MP2
+To be used with camkes-vm-examples, the Linux and Buildroot binaries must
+be generated using the manifest below and installed in this directory.
 
 * File: linux
 * From: https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git
